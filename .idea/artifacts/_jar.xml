@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="文件管理系统:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="文件管理系统.jar">
+      <element id="module-output" name="FileManageSystem" />
+    </root>
+  </artifact>
+</component>
